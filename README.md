@@ -1,6 +1,6 @@
 # Olá, eu sou o Ronny Luiz 👋
 
-Profissional de TI e Analista de Segurança da Informação, com experiência em **TI, análise de dados e automação**.  
+Profissional de TI e Analista de Suporte Técnico, com experiência em **TI, análise de dados e automação**.  
 Aqui compartilho meus projetos e aprendizados práticos.
 
 ---
@@ -43,4 +43,5 @@ Python | SQL | Pandas | Power BI | Git | GitHub | HTML | CSS | JavaScript | SAP
 
 ### ⚡ Sobre mim
 
-Exploro novas tecnologias, resolvo problemas práticos e busco aprendizado constante.
+Exploro novas tecnologias, resolvendo problemas praticos e explorando novas tecnologias.  
+Sempre buscando desafios que me permitam crescer profissionalmente e contribuir com soluções eficientes!

@@ -1,52 +1,69 @@
-### 👋 Olá, eu sou o Ronny!
+# Olá, eu sou o Ronny Luiz 👋
 
-🎓 Estudante de tecnologia apaixonado por **análise de dados** e automação de tarefas.
-
-📊 Atualmente estou intensificando meus estudos em **Python**, com foco em:
-- Análise de Dados (Pandas, NumPy, Matplotlib)
-- Automatização de tarefas
-- Scripts úteis para o dia a dia
-
-🛠️ Também tenho noções em:
-- HTML & CSS
-- SQL
-- Git & GitHub
+Sou um profissional de TI e Analista de Suporte Técnico, com experiência em **TI, análise de dados, automação e projetos de segurança**.  
+Aqui compartilho meus projetos, estudos e experimentos práticos.
 
 ---
 
-### 🚀 Tecnologias e ferramentas
+## 💻 Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronny700&show_icons=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronny700&layout=compact&theme=default"/>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" width="40" height="40"/>
 
 ---
 
-### ✨ Sobre mim
+## 🚀 Projetos em Destaque
 
-- 🚀 Gosto de criar soluções práticas com dados e automações simples.
-- 💡 Sempre em busca de aprender algo novo e evoluir como profissional.
-- 🤝 Aberto a colaborações, freelas ou apenas trocar ideias sobre tecnologia!
+### [Automação de Processos Internos](https://github.com/Ronny700/AutomacaoProcessos)
+![Automação](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+- Projeto em Python para otimização de rotinas administrativas e controle de inventário.
+- Tecnologias: Python, SQL, Pandas
+- Resultado: Redução de tempo em tarefas repetitivas e maior organização de dados.
+
+### [Dashboard Power BI](https://github.com/Ronny700/Dashboard-PowerBI)
+![Dashboard](https://media.giphy.com/media/l0HlQ7LRalFfrG6Vi/giphy.gif)
+- Dashboard interativo para análise de dados corporativos.
+- Tecnologias: Power BI, SQL
+- Resultado: Visualização clara e insights estratégicos para tomada de decisão.
+
+### [Controle de Estoque e Compras](https://github.com/Ronny700/ControleEstoque)
+![Estoque](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+- Sistema para gestão de estoque e compras utilizando Excel e scripts em Python.
+- Tecnologias: Excel, Python
+- Resultado: Maior eficiência na gestão de materiais e suprimentos.
+
+> 💡 Dica: GIFs ou imagens reais de seus projetos aumentam muito a atratividade visual do perfil.
 
 ---
 
-### 📬 Como me encontrar
+## 📊 Estatísticas do GitHub
 
-[![Gmail](https://img.shields.io/badge/-ronny32luiz@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ronny32luiz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
+![Ronny700's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronny700&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronny700&layout=compact&theme=radical)
 
 ---
 
-**Obrigado por visitar meu perfil!** 🚀
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/ronny-luiz-santos" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ronny32luiz@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+</a>
+
+---
+
+### ⚡ Sobre mim
+
+Adoro explorar novas tecnologias, resolver problemas práticos e aprender constantemente.  
+Sempre buscando desafios que me permitam crescer profissionalmente e contribuir com soluções eficientes!
+
